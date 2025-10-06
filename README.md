@@ -1,6 +1,6 @@
 # Banco-de-dados
 Atividade Banco de Dados
-superheroes
+
 Trabalho de Banco de Dados - Super-Heróis
 Repositório criado para o trabalho de Banco de Dados (Faculdade Uninassau - Prof. Sérgio).
 
