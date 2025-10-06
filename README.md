@@ -8,7 +8,7 @@ Estrutura do repositório
 consultas.sql: contém as consultas SQL pedidas na Parte 1 do exercício.
 superheroes.db: banco de dados SQLite fornecido pelo professor.
 
-README.md: documentação do projeto.
+Documentação do projeto.
 Consultas implementadas
 Listar todos os super-heróis.
 Listar apenas nome e publisher.
